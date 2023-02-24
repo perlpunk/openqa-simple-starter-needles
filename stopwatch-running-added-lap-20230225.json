@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 334,
+      "ypos": 210,
+      "width": 353,
+      "height": 126,
+      "type": "match",
+      "click_point": {
+        "xpos": 70.5,
+        "ypos": 37
+      }
+    },
+    {
+      "xpos": 346,
+      "ypos": 292,
+      "width": 97,
+      "height": 44,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "stopwatch-running-added-lap"
+  ]
+}

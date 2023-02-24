@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 334,
+      "ypos": 305,
+      "width": 363,
+      "height": 175,
+      "type": "match",
+      "click_point": {
+        "xpos": 290.5,
+        "ypos": 142.5
+      }
+    },
+    {
+      "xpos": 541,
+      "ypos": 340,
+      "width": 138,
+      "height": 69,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "stopwatch-running"
+  ]
+}
